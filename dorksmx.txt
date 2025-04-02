@@ -1,0 +1,197 @@
+site:gov.mx inurl:"medicina"
+site:gov.mx inurl:"salud"
+site:.edu.mx "estudio de medicina"
+site:.edu.mx "congreso de medicina"
+site:.edu.mx "medicina general"
+site:.edu.mx "cursos de medicina"
+site:.edu.mx "posgrado medicina"
+site:.edu.mx "enfermería"
+inurl:"doctor" "consultorio"
+inurl:"medico" "consulta"
+site:.mx inurl:"medicina" 
+inurl:"grupo de doctores" site:.mx
+inurl:"congreso de salud" site:.mx
+intitle:"foro de médicos" site:.mx
+intitle:"cirugía" site:.mx
+inurl:"especialización medicina" site:.mx
+"asociación de médicos" site:.mx
+"enfermería en México" site:.mx
+"centro de salud" site:.mx
+"medicina alternativa" site:.mx
+"tratamientos médicos" site:.mx
+"doctor en línea" site:.mx
+"salud mental" site:.mx
+"consultorio médico" site:.mx
+inurl:"formación médica" site:.mx
+"congreso médico 2025" site:.mx
+"enfermería en hospitales" site:.mx
+site:edu.mx "grados y posgrados en salud"
+site:.mx "medicina cardiovascular"
+site:.mx "estudio de enfermedades"
+site:.mx "tratamientos de enfermedades"
+"tesis de medicina" site:.mx
+"salud pública" site:.mx
+site:.mx "formación en salud"
+inurl:"salud pública" site:.mx
+inurl:"medicina de urgencias" site:.mx
+"cirugía general" site:.mx
+inurl:"medicina interna" site:.mx
+"medicina preventiva" site:.mx
+site:.mx "grados médicos"
+"consulta pediátrica" site:.mx
+"terapia física" site:.mx
+site:.mx "enfermería pediátrica"
+"especialistas en cáncer" site:.mx
+"medicina general en línea" site:.mx
+"congreso de pediatría" site:.mx
+"foro de enfermería" site:.mx
+"consultas médicas en línea" site:.mx
+"servicios de salud en línea" site:.mx
+"medicina estética" site:.mx
+site:.mx "salud y bienestar"
+site:.mx "educación en salud"
+"salud digital" site:.mx
+site:.mx "consultorio en línea"
+site:.mx "medicina alternativa"
+inurl:"medicina de emergencia" site:.mx
+"formación de médicos" site:.mx
+site:.mx "cirugía estética"
+"cirugía cardiovascular" site:.mx
+site:.mx "formación de enfermeros"
+"tratamientos médicos modernos" site:.mx
+"medicina en línea" site:.mx
+"centro de salud mental" site:.mx
+"servicios médicos en línea" site:.mx
+"enfermería en hospitales" site:.mx
+site:.mx "atención primaria de salud"
+"cirugía oncológica" site:.mx
+"cirugía pediátrica" site:.mx
+site:.mx "medicina preventiva en línea"
+site:.mx "técnicas quirúrgicas"
+site:.mx "tratamientos médicos para la diabetes"
+site:.mx "enfermería geriátrica"
+"doctor en línea México" site:.mx
+"médicos en línea" site:.mx
+site:.mx "medicina integrativa"
+"salud ocupacional" site:.mx
+site:.mx "atención médica a distancia"
+inurl:"prácticas médicas" site:.mx
+site:.mx "tratamientos quirúrgicos"
+site:.mx "tratamientos médicos para el cáncer"
+site:.mx "enfermería neonatal"
+site:.mx "grados en salud pública"
+site:.mx "medicina regenerativa"
+site:.mx "tratamientos para enfermedades crónicas"
+site:.mx "salud pública y medicina"
+site:.mx "cirugía maxilofacial"
+"clínicas de salud" site:.mx
+"medicina estética y salud" site:.mx
+"medicina dental" site:.mx
+"medicina ocupacional" site:.mx
+site:.mx "tratamientos médicos innovadores"
+site:.mx "servicios de salud en comunidades"
+"congreso internacional de medicina" site:.mx
+site:.mx "cirugía laparoscópica"
+"medicina bioética" site:.mx
+"tratamientos de salud mental" site:.mx
+"congreso de enfermería" site:.mx
+site:.mx "atención médica infantil"
+"médicos especialistas en diabetes" site:.mx
+"medicina tropical" site:.mx
+"cirugía de trasplante" site:.mx
+"médicos en consulta en línea" site:.mx
+site:.mx "salud preventiva"
+site:.mx "consultoría médica"
+site:.mx "atención a pacientes con cáncer"
+site:.mx "centros de rehabilitación"
+site:.mx "salud y bienestar"
+"tratamientos estéticos" site:.mx
+site:.mx "medicina deportiva"
+site:.mx "cirugía reconstructiva"
+"medicina tradicional mexicana" site:.mx
+"enfermería en urgencias" site:.mx
+"medicina de familia" site:.mx
+site:.mx "salud ambiental"
+"medicina forense" site:.mx
+site:.mx "tratamientos de rehabilitación"
+"medicina alternativa y complementaria" site:.mx
+"terapia ocupacional" site:.mx
+site:.mx "técnicas médicas modernas"
+site:.mx "tratamientos dermatológicos"
+site:.mx "servicios médicos integrales"
+"centros médicos en México" site:.mx
+"cirugía plástica estética" site:.mx
+site:.mx "salud pública México"
+"medicina regenerativa" site:.mx
+site:.mx "atención médica para adultos mayores"
+"medicina de urgencias en México" site:.mx
+site:.mx "medicina cardiovascular y tratamientos"
+"cirugía estética facial" site:.mx
+"medicina deportiva en línea" site:.mx
+"medicina de rehabilitación en línea" site:.mx
+site:.mx "tratamientos para el dolor crónico"
+"medicina de adultos mayores" site:.mx
+site:.mx "cirugía bariátrica"
+site:.mx "medicina del sueño"
+"salud dental y medicina" site:.mx
+"cirugía reconstructiva facial" site:.mx
+site:.mx "consultas médicas a distancia"
+site:.mx "enfermería comunitaria"
+"tratamientos para la hipertensión" site:.mx
+site:.mx "especialización médica en México"
+site:.mx "servicios de salud mental en línea"
+"medicina veterinaria" site:.mx
+site:.mx "enfermería en oncología"
+"tratamientos para enfermedades autoinmunes" site:.mx
+site:.mx "medicina de alta especialidad"
+"salud reproductiva en México" site:.mx
+"medicina de cuidados paliativos" site:.mx
+site:.mx "cirugía de la columna vertebral"
+"medicina para la diabetes tipo 2" site:.mx
+site:.mx "tratamientos para problemas respiratorios"
+"medicina infantil en México" site:.mx
+"medicina geriátrica en línea" site:.mx
+"cirugía de corazón" site:.mx
+"tratamientos para enfermedades cardíacas" site:.mx
+site:.mx "cirugía general en México"
+site:.mx "atención médica en urgencias"
+"medicina para el cáncer" site:.mx
+"tratamientos dermatológicos en línea" site:.mx
+site:.mx "medicina nuclear en México"
+"medicina de emergencia" site:.mx
+"terapia física y rehabilitación" site:.mx
+"medicina molecular" site:.mx
+"medicina clínica en México" site:.mx
+"enfermería en cuidados intensivos" site:.mx
+"medicina de emergencias en México" site:.mx
+"consultas médicas por videollamada" site:.mx
+"medicina preventivas en México" site:.mx
+site:.mx "medicina de la mujer"
+site:.mx "cirugía ortopédica"
+site:.mx "enfermería en pediatría"
+"medicina estética avanzada" site:.mx
+site:.mx "tratamientos para la artritis"
+"medicina de rehabilitación física" site:.mx
+"tratamientos para problemas digestivos" site:.mx
+"medicina especializada en enfermedades raras" site:.mx
+"medicina en línea para enfermedades" site:.mx
+"cirugía reconstructiva de piel" site:.mx
+"consultorios médicos en línea" site:.mx
+site:.mx "cirugía de trasplante"
+"medicina de urgencias pediátricas" site:.mx
+"salud pública y política en México" site:.mx
+"medicina moderna en México" site:.mx
+site:.mx "enfermería en psiquiatría"
+"cirugía plástica reconstructiva" site:.mx
+"tratamientos de reumatología" site:.mx
+site:.mx "consultorios médicos privados"
+"tratamientos para las enfermedades cardiovasculares" site:.mx
+"medicina en línea para diabéticos" site:.mx
+site:.mx "medicina para la obesidad"
+"especialización médica en urgencias" site:.mx
+"tratamientos ortopédicos" site:.mx
+site:.mx "salud integral para adultos mayores"
+"cirugía torácica en México" site:.mx
+"medicina alternativa y natural" site:.mx
+"medicina de urgencias para niños" site:.mx
+site:.mx "tratamientos para el cáncer de piel"
