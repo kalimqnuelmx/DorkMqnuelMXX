@@ -1,197 +1,175 @@
-site:gov.mx inurl:"medicina"
-site:gov.mx inurl:"salud"
-site:.edu.mx "estudio de medicina"
-site:.edu.mx "congreso de medicina"
-site:.edu.mx "medicina general"
-site:.edu.mx "cursos de medicina"
-site:.edu.mx "posgrado medicina"
-site:.edu.mx "enfermería"
-inurl:"doctor" "consultorio"
-inurl:"medico" "consulta"
-site:.mx inurl:"medicina" 
-inurl:"grupo de doctores" site:.mx
-inurl:"congreso de salud" site:.mx
-intitle:"foro de médicos" site:.mx
-intitle:"cirugía" site:.mx
-inurl:"especialización medicina" site:.mx
-"asociación de médicos" site:.mx
-"enfermería en México" site:.mx
-"centro de salud" site:.mx
-"medicina alternativa" site:.mx
-"tratamientos médicos" site:.mx
-"doctor en línea" site:.mx
-"salud mental" site:.mx
-"consultorio médico" site:.mx
-inurl:"formación médica" site:.mx
-"congreso médico 2025" site:.mx
-"enfermería en hospitales" site:.mx
-site:edu.mx "grados y posgrados en salud"
-site:.mx "medicina cardiovascular"
-site:.mx "estudio de enfermedades"
-site:.mx "tratamientos de enfermedades"
-"tesis de medicina" site:.mx
-"salud pública" site:.mx
-site:.mx "formación en salud"
-inurl:"salud pública" site:.mx
-inurl:"medicina de urgencias" site:.mx
-"cirugía general" site:.mx
-inurl:"medicina interna" site:.mx
-"medicina preventiva" site:.mx
-site:.mx "grados médicos"
-"consulta pediátrica" site:.mx
-"terapia física" site:.mx
-site:.mx "enfermería pediátrica"
-"especialistas en cáncer" site:.mx
-"medicina general en línea" site:.mx
-"congreso de pediatría" site:.mx
-"foro de enfermería" site:.mx
-"consultas médicas en línea" site:.mx
-"servicios de salud en línea" site:.mx
-"medicina estética" site:.mx
-site:.mx "salud y bienestar"
-site:.mx "educación en salud"
-"salud digital" site:.mx
-site:.mx "consultorio en línea"
-site:.mx "medicina alternativa"
-inurl:"medicina de emergencia" site:.mx
-"formación de médicos" site:.mx
-site:.mx "cirugía estética"
-"cirugía cardiovascular" site:.mx
-site:.mx "formación de enfermeros"
-"tratamientos médicos modernos" site:.mx
-"medicina en línea" site:.mx
-"centro de salud mental" site:.mx
-"servicios médicos en línea" site:.mx
-"enfermería en hospitales" site:.mx
-site:.mx "atención primaria de salud"
-"cirugía oncológica" site:.mx
-"cirugía pediátrica" site:.mx
-site:.mx "medicina preventiva en línea"
-site:.mx "técnicas quirúrgicas"
-site:.mx "tratamientos médicos para la diabetes"
-site:.mx "enfermería geriátrica"
-"doctor en línea México" site:.mx
-"médicos en línea" site:.mx
-site:.mx "medicina integrativa"
-"salud ocupacional" site:.mx
-site:.mx "atención médica a distancia"
-inurl:"prácticas médicas" site:.mx
-site:.mx "tratamientos quirúrgicos"
-site:.mx "tratamientos médicos para el cáncer"
-site:.mx "enfermería neonatal"
-site:.mx "grados en salud pública"
-site:.mx "medicina regenerativa"
-site:.mx "tratamientos para enfermedades crónicas"
-site:.mx "salud pública y medicina"
-site:.mx "cirugía maxilofacial"
-"clínicas de salud" site:.mx
-"medicina estética y salud" site:.mx
-"medicina dental" site:.mx
-"medicina ocupacional" site:.mx
-site:.mx "tratamientos médicos innovadores"
-site:.mx "servicios de salud en comunidades"
-"congreso internacional de medicina" site:.mx
-site:.mx "cirugía laparoscópica"
-"medicina bioética" site:.mx
-"tratamientos de salud mental" site:.mx
-"congreso de enfermería" site:.mx
-site:.mx "atención médica infantil"
-"médicos especialistas en diabetes" site:.mx
-"medicina tropical" site:.mx
-"cirugía de trasplante" site:.mx
-"médicos en consulta en línea" site:.mx
-site:.mx "salud preventiva"
-site:.mx "consultoría médica"
-site:.mx "atención a pacientes con cáncer"
-site:.mx "centros de rehabilitación"
-site:.mx "salud y bienestar"
-"tratamientos estéticos" site:.mx
-site:.mx "medicina deportiva"
-site:.mx "cirugía reconstructiva"
-"medicina tradicional mexicana" site:.mx
-"enfermería en urgencias" site:.mx
-"medicina de familia" site:.mx
-site:.mx "salud ambiental"
-"medicina forense" site:.mx
-site:.mx "tratamientos de rehabilitación"
-"medicina alternativa y complementaria" site:.mx
-"terapia ocupacional" site:.mx
-site:.mx "técnicas médicas modernas"
-site:.mx "tratamientos dermatológicos"
-site:.mx "servicios médicos integrales"
-"centros médicos en México" site:.mx
-"cirugía plástica estética" site:.mx
-site:.mx "salud pública México"
-"medicina regenerativa" site:.mx
-site:.mx "atención médica para adultos mayores"
-"medicina de urgencias en México" site:.mx
-site:.mx "medicina cardiovascular y tratamientos"
-"cirugía estética facial" site:.mx
-"medicina deportiva en línea" site:.mx
-"medicina de rehabilitación en línea" site:.mx
-site:.mx "tratamientos para el dolor crónico"
-"medicina de adultos mayores" site:.mx
-site:.mx "cirugía bariátrica"
-site:.mx "medicina del sueño"
-"salud dental y medicina" site:.mx
-"cirugía reconstructiva facial" site:.mx
-site:.mx "consultas médicas a distancia"
-site:.mx "enfermería comunitaria"
-"tratamientos para la hipertensión" site:.mx
-site:.mx "especialización médica en México"
-site:.mx "servicios de salud mental en línea"
-"medicina veterinaria" site:.mx
-site:.mx "enfermería en oncología"
-"tratamientos para enfermedades autoinmunes" site:.mx
-site:.mx "medicina de alta especialidad"
-"salud reproductiva en México" site:.mx
-"medicina de cuidados paliativos" site:.mx
-site:.mx "cirugía de la columna vertebral"
-"medicina para la diabetes tipo 2" site:.mx
-site:.mx "tratamientos para problemas respiratorios"
-"medicina infantil en México" site:.mx
-"medicina geriátrica en línea" site:.mx
-"cirugía de corazón" site:.mx
-"tratamientos para enfermedades cardíacas" site:.mx
-site:.mx "cirugía general en México"
-site:.mx "atención médica en urgencias"
-"medicina para el cáncer" site:.mx
-"tratamientos dermatológicos en línea" site:.mx
-site:.mx "medicina nuclear en México"
-"medicina de emergencia" site:.mx
-"terapia física y rehabilitación" site:.mx
-"medicina molecular" site:.mx
-"medicina clínica en México" site:.mx
-"enfermería en cuidados intensivos" site:.mx
-"medicina de emergencias en México" site:.mx
-"consultas médicas por videollamada" site:.mx
-"medicina preventivas en México" site:.mx
-site:.mx "medicina de la mujer"
-site:.mx "cirugía ortopédica"
-site:.mx "enfermería en pediatría"
-"medicina estética avanzada" site:.mx
-site:.mx "tratamientos para la artritis"
-"medicina de rehabilitación física" site:.mx
-"tratamientos para problemas digestivos" site:.mx
-"medicina especializada en enfermedades raras" site:.mx
-"medicina en línea para enfermedades" site:.mx
-"cirugía reconstructiva de piel" site:.mx
-"consultorios médicos en línea" site:.mx
-site:.mx "cirugía de trasplante"
-"medicina de urgencias pediátricas" site:.mx
-"salud pública y política en México" site:.mx
-"medicina moderna en México" site:.mx
-site:.mx "enfermería en psiquiatría"
-"cirugía plástica reconstructiva" site:.mx
-"tratamientos de reumatología" site:.mx
-site:.mx "consultorios médicos privados"
-"tratamientos para las enfermedades cardiovasculares" site:.mx
-"medicina en línea para diabéticos" site:.mx
-site:.mx "medicina para la obesidad"
-"especialización médica en urgencias" site:.mx
-"tratamientos ortopédicos" site:.mx
-site:.mx "salud integral para adultos mayores"
-"cirugía torácica en México" site:.mx
-"medicina alternativa y natural" site:.mx
-"medicina de urgencias para niños" site:.mx
-site:.mx "tratamientos para el cáncer de piel"
+site:.edu inurl:hospitales?id=1&user=
+
+site:.edu inurl:diplomados-de-medicina?id=1234&uid=5678&user=admin
+
+site:.com inurl:certificado-medicina?id=2345&uid=8765&user=doctor
+
+site:.org inurl:informes-medicos?id=456&page=2&user=admin
+
+site:.net inurl:consultas?id=789&user=patient
+
+site:.edu inurl:medicina?curso=doctorado&id=123
+
+site:.com inurl:registro-estudios?id=567&user=student
+
+site:.org inurl:hospital-universitario?id=1357&page=1&user=medico
+
+site:.edu inurl:diplomado-en-salud?id=2468&user=admin
+
+site:.net inurl:tratamientos-avanzados?id=369&uid=1011&user=admin
+
+site:.edu inurl:historial-clinico?id=158&user=admin
+
+site:.com inurl:programas-de-estudios?id=457&user=doctor
+
+site:.org inurl:certificados-de-medicina?id=214&user=student
+
+site:.net inurl:medicina-estudios?id=314&user=admin
+
+site:.edu inurl:curso-enfermería?id=124&user=student
+
+site:.com inurl:hospitales-universitarios?id=456&user=admin
+
+site:.org inurl:cursos-de-medicina?id=198&uid=7531&user=doctor
+
+site:.net inurl:maestría-en-medicina?id=284&user=admin
+
+site:.edu inurl:enfermería-certificado?id=234&user=student
+
+site:.edu inurl:historial-clínico-universitario?id=147&user=doctor
+
+site:.org inurl:consulta-médica-universitaria?id=99&user=admin
+
+site:.net inurl:certificados-de-medicina?id=332&user=doctor
+
+site:.com inurl:hospitales-publicos?id=911&user=admin
+
+site:.edu inurl:maestría-en-salud?id=823&user=doctor
+
+site:.org inurl:tratamientos-certificados?id=552&user=patient
+
+site:.edu inurl:registro-hospitalario?id=617&user=admin
+
+site:.com inurl:universidad-enfermería?id=435&uid=3210&user=student
+
+site:.edu inurl:programas-de-enfermería?id=1234&user=student
+
+site:.org inurl:hospital-medicina?id=2398&user=doctor
+
+site:.net inurl:certificado-de-salud?id=786&user=admin
+
+site:.edu inurl:cursos-en-medicina-avanzada?id=563&user=doctor
+
+site:.com inurl:universidad-de-cursos-de-medicina?id=831&user=student
+
+site:.org inurl:atención-enfermería?id=184&user=admin
+
+site:.net inurl:consulta-médica-universitaria?id=412&user=patient
+
+site:.edu inurl:universidad-diplomado-en-medicina?id=903&user=student
+
+site:.com inurl:cursos-diplomados-salud?id=982&user=doctor
+
+site:.org inurl:cursos-de-enfermería-avanzada?id=661&user=admin
+
+site:.net inurl:programas-universitarios-salud?id=234&user=student
+
+site:.edu inurl:programas-de-medicina-en-linea?id=577&user=doctor
+
+site:.com inurl:diplomado-salud-enfermería?id=329&user=admin
+
+site:.org inurl:universidad-certificados-enfermería?id=145&user=doctor
+
+site:.net inurl:registros-médicos-hospital?id=298&user=patient
+
+site:.edu inurl:programas-certificados-enfermería?id=234&user=admin
+
+site:.org inurl:universidad-enfermería-certificado?id=761&user=student
+
+site:.com inurl:tratamientos-medicina-avanzada?id=872&user=doctor
+
+site:.net inurl:cursos-de-salud-universitarios?id=654&user=admin
+
+site:.edu inurl:universidad-de-salud?id=324&user=doctor
+
+site:.org inurl:hospitales-de-educación?id=109&user=student
+
+site:.com inurl:diplomados-en-salud?id=291&user=admin
+
+site:.edu inurl:programa-enfermería-universitario?id=465&user=doctor
+
+site:.net inurl:cursos-de-medicina-en-linea?id=876&user=student
+
+site:.org inurl:universidad-cursos-en-salud?id=952&user=admin
+
+site:.com inurl:tratamientos-en-salud?id=439&user=doctor
+
+site:.edu inurl:diplomados-de-medicina-enfermería?id=347&user=student
+
+site:.org inurl:enfermería-hospitales-certificados?id=741&user=admin
+
+site:.com inurl:hospitales-universitarios-salud?id=926&user=patient
+
+site:.edu inurl:medicina-y-enfermería?id=665&user=doctor
+
+site:.org inurl:universidad-enfermería-diplomado?id=881&user=admin
+
+site:.com inurl:hospitales-publicos-salud?id=129&user=admin
+
+site:.edu inurl:educación-en-medicina?id=510&user=student
+
+site:.com inurl:cursos-de-diplomado-en-enfermería?id=482&user=admin
+
+site:.org inurl:universidad-de-medicina?id=157&user=doctor
+
+site:.net inurl:hospitales-enfermería?id=934&user=patient
+
+site:.edu inurl:cursos-hospitales?id=215&user=student
+
+site:.com inurl:diplomado-en-salud-enfermería?id=568&user=admin
+
+site:.edu inurl:hospital-certificado-medicina?id=326&user=doctor
+
+site:.org inurl:registros-médicos-salud?id=739&user=admin
+
+site:.com inurl:hospitales-y-universidades-en-medicina?id=184&user=doctor
+
+site:.edu inurl:programa-diplomado-enfermería?id=276&user=student
+
+site:.org inurl:certificados-de-enfermería-avanzado?id=468&user=doctor
+
+site:.net inurl:medicina-hospital-diplomado?id=321&user=admin
+
+site:.edu inurl:educación-hospitalaria?id=103&user=student
+
+site:.com inurl:tratamientos-y-diplomados-en-salud?id=637&user=doctor
+
+site:.org inurl:universidad-de-enfermería-certificados?id=834&user=admin
+
+site:.edu inurl:curso-de-enfermería-certificados?id=465&user=student
+
+site:.com inurl:registros-hospital-medicina?id=290&user=admin
+
+site:.edu inurl:diplomados-salud-enfermería?id=564&user=doctor
+
+site:.org inurl:hospitales-en-salud-certificado?id=287&user=admin
+
+site:.com inurl:universidad-diplomado-medicina-enfermería?id=902&user=admin
+
+site:.edu inurl:programa-de-medicina-en-hospital?id=411&user=doctor
+
+site:.org inurl:hospitales-en-enfermería?id=372&user=admin
+
+site:.net inurl:cursos-de-enfermería-y-salud?id=249&user=doctor
+
+site:.edu inurl:medicina-hospital-universitario?id=509&user=admin
+
+site:.org inurl:cursos-de-salud-diplomados?id=734&user=student
+
+site:.edu inurl:enfermería-programas?id=458&user=doctor
+site:.com inurl:universidad-hospitales-en-salud?id=734&user=admin
+site:.edu inurl:universidad-certificados-enfermería?id=198&user=doctor
+site:.org inurl:cursos-universitarios-en-salud?id=385&user=student
+site:.edu inurl:hospitales-universitarios-enfermería?id=529&user=doctor
+site:.org inurl:diplomados-en-enfermería-salud?id=491&user=student
+
